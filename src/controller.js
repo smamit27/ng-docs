@@ -9,5 +9,5 @@
  **/
 angular.module('app')
   .controller('RestController', ['$scope', function (sc) {
-    sc.hello = "Zensar";
+    sc.hello = "Hello World ";
   }]);
