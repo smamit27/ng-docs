@@ -13,3 +13,4 @@ Run `grunt` and open http://localhost:8000/docs in your Browser.
 * GitLink:https://github.com/angular/angular.js/wiki/Writing-AngularJS-Documentation
 * Learn JS Docs: http://usejsdoc.org/about-getting-started.html
 * YouTube Link: https://www.youtube.com/watch?v=e31elKr5hD0&t=150s
+* UseFulLink : http://www.podpea.co.uk/blog/starting-off-with-ngdocs/
